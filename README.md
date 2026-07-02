@@ -1,4 +1,7 @@
-#  Student Performance Prediction
+# Student Performance Prediction
+#live demo 
+stremlit App
+https://studentperformanceprediction-binret6kjucxfcwcn96per.streamlit.app
 
 ## Overview
 
@@ -41,6 +44,8 @@ Student_Performance_Prediction/
 ├── README.md
 └── .gitignore
 
+## Run
+
 ### Install
 
 pip install -r requirements.txt
@@ -57,11 +62,13 @@ uvicorn api.main:app --reload
 
 streamlit run app/app.py
 
-
-## Model
+## 📈 Model
 
 Algorithm:
 CatBoost Classifier
+xgboos Classifier
+lightgbm Classifier
+RandomForest Classifer
 
 Evaluation:
 
