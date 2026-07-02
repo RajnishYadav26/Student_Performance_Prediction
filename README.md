@@ -1,7 +1,11 @@
 # Student Performance Prediction
 #live demo 
-stremlit App
+streamlit App
 https://studentperformanceprediction-binret6kjucxfcwcn96per.streamlit.app
+FastAPI API:
+https://student-performance-prediction-ppaq.onrender.com/docs
+Github Repository:
+https://github.com/RajnishYadav26/Student_Performance_Prediction.git
 
 ## Overview
 
