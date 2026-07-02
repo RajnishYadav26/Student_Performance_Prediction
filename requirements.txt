@@ -6,3 +6,6 @@ scikit-learn
 scipy
 fastapi
 uvicorn
+xgboost
+lightgbm
+catboost
